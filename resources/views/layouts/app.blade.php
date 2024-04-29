@@ -26,6 +26,8 @@
 
     @include('layouts.partials.header')
 
+    @yield('hero')
+
 
 
 
